@@ -1,0 +1,31 @@
+_repo: Prize-of-the-air_74130
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conlon, Ben
+    gutenberg_agent_id: '57357'
+    url: http://www.gutenberg.org/2009/agents/57357
+description: ''
+gutenberg_issued: '2024-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74130'
+language: en
+pgterms:marc905: 20240724053347conlon
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Frank A. Munsey Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Love stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'New Mexico -- Fiction'
+- !lcsh 'Air pilots -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Prize of the air
+url: http://www.gutenberg.org/ebooks/74130
